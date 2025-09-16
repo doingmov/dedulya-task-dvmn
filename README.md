@@ -1,1 +1,1 @@
-# dedulya-task-dvmn
+# dvmn-py2
